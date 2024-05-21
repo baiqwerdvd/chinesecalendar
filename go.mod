@@ -1,4 +1,4 @@
-module github.com/qwerdvd/chinesecalendar
+module github.com/baiqwerdvd/chinesecalendar
 
 go 1.22
 

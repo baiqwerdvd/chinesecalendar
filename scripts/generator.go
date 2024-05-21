@@ -10,8 +10,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/qwerdvd/chinesecalendar"
-	. "github.com/qwerdvd/chinesecalendar/internal"
+	"github.com/baiqwerdvd/chinesecalendar"
+	. "github.com/baiqwerdvd/chinesecalendar/internal"
 )
 
 const dateTypeWorkday = 1
@@ -644,7 +644,7 @@ package chinesecalendar
 
 import (
 	"time"
-	. "github.com/qwerdvd/chinesecalendar/internal"
+	. "github.com/baiqwerdvd/chinesecalendar/internal"
 )
 
 var (
